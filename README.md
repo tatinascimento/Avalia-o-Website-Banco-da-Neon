@@ -47,4 +47,4 @@ alguns foram mapeados pelos iDs, ou pelas class, tudo dependeu muito do cenário
 - 6° Por útimo inicie a criação dos pages utilizando pelo site prisma
  Porém não consegui concluir, mas todos os cenários estão sendo executados dentro do esperado
 
-7º Fiz subi o projeto para o Github https://github.com/tatinascimento/Projeto-Website-Banco-Neon
+- 7º Fiz subi o projeto para o Github https://github.com/tatinascimento/Projeto-Website-Banco-Neon
